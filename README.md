@@ -4,8 +4,8 @@
 
 ## Colaboradores
 
-- Francesca Nicole Bances Torres (Data Analytics)  
-- Marsi Valeria Figueroa Larragán (Data Science)
+- Francesca Nicole Bances Torres 
+- Marsi Valeria Figueroa Larragán
   
 ---
 
