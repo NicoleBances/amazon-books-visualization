@@ -1,10 +1,12 @@
 # Análisis y Visualización de los Libros Más Vendidos en Amazon (2009-2019)
 
-**Universidad:** Universidad Peruana de Ciencias Aplicadas  
-**Curso:** Data Visualization  
-**Alumnos:** Francesca Nicole Bances Torres, Marsi Figueroa Larragan  
-**Fecha:** Julio 2025  
+---
 
+## Colaboradores
+
+- Francesca Nicole Bances Torres (Data Analytics)  
+- Marsi Valeria Figueroa Larragán (Data Science)
+  
 ---
 
 ## Resumen
