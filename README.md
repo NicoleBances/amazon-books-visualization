@@ -124,6 +124,3 @@ El proyecto permitió aplicar herramientas de análisis exploratorio y desarroll
 - Automatizar y documentar mejor los pasos de preprocesamiento para replicabilidad y profesionalismo.  
 
 
-
-## Estructura recomendada del repositorio
-
