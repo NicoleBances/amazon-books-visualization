@@ -79,7 +79,6 @@ El proyecto permitió aplicar herramientas de análisis exploratorio y desarroll
   - Visualizar patrones y tendencias clave para decisiones estratégicas.  
 
 **Link al dashboard:** [https://tf-data-visualization.streamlit.app/](https://tf-data-visualization.streamlit.app/)  
-**Link al notebook en Google Colab:** [Notebook](https://colab.research.google.com/drive/1rHUlmRvz6f-RBIBF-3c-uvXZb8wBBEUZ?usp=sharing)  
 
 ---
 
